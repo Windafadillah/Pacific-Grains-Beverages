@@ -4,7 +4,7 @@ This project analyzes 12 years of historical sales performance (2013–2025) and
 
 The goal is to provide stakeholder-ready insights that connect past performance trends with future growth opportunities, enabling better strategic planning, territory optimization, and resource allocation.
 
-## Key Highlights
+### Key Highlights
 
 1. Revenue Analysis (2013–2025):
    - Identify top-performing brands, product categories, and territories.
@@ -21,5 +21,5 @@ The goal is to provide stakeholder-ready insights that connect past performance 
    - Measure actual conversion rates against historical benchmarks.
    - Highlight risks in forecasting and territory targeting.
 
-## Business Value
+### Business Value
 By combining historical revenue and forward-looking funnel data, this project demonstrates how a company can balance proven strategies with bold new market bets that ultimately create a data-informed roadmap for sustainable growth.
