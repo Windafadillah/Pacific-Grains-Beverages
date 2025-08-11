@@ -22,4 +22,4 @@ The goal is to provide stakeholder-ready insights that connect past performance 
    - Highlight risks in forecasting and territory targeting.
 
 ## Business Value
-By combining historical revenue and forward-looking funnel data, this project demonstrates how a company can balance proven strategies with bold new market bets — ultimately creating a data-informed roadmap for sustainable growth.
+By combining historical revenue and forward-looking funnel data, this project demonstrates how a company can balance proven strategies with bold new market bets that ultimately create a data-informed roadmap for sustainable growth.
